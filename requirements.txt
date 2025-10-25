@@ -129,7 +129,7 @@ starlette==0.48.0
 sympy==1.14.0
 tenacity==8.5.0
 threadpoolctl==3.6.0
-tiktoken==0.5.2
+tiktoken==0.6.0 --only-binary=:all:
 tokenizers==0.22.1
 torch==2.9.0
 torchvision==0.24.0
